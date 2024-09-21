@@ -5,4 +5,4 @@ dateStart: "01/01/2020"
 dateEnd: "11/27/2022"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Worked as a Software Engineer at Apple, contributing to various projects and collaborating with cross-functional teams to develop innovative solutions.
