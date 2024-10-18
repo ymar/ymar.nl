@@ -4,7 +4,7 @@ description: "Salesforce's Data Cloud isn't about creating a perfect, singular v
 date: "2024-10-18"
 ---
 
-
+I recently began studying for the Data Cloud Consultant certification. Below are a few key notes on how I understand the material so far:
 
 ## Unified Profile vs Golden Record
 
