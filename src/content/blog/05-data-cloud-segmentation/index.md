@@ -1,7 +1,7 @@
 ---
 title: "Understanding Salesforce Data Cloud: Segmentation"
 description: "Salesforce's Data Cloud isn't about creating a perfect, singular view of each customer. Instead, it's about creating a comprehensive, flexible view that can adapt to different contexts and use cases."
-date: "2024-10-18"
+date: "2024-10-19"
 ---
 
 
