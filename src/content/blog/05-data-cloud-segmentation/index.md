@@ -1,7 +1,8 @@
 ---
 title: "Understanding Salesforce Data Cloud: Segmentation"
 description: "Salesforce’s Data Cloud provides practical options for segmenting customer data to improve targeting and engagement."
-date: "2024-10-19"
+date: 2024-10-19
+
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Recently - Summer 2024"
 description: "A snapshot of my current interests, work, and observations"
-date: "Sep 22 2024"
+date: 2024-09-22
 ---
 
 It's been a while since I've done one of these "Recently" posts, so I thought I'd take a moment to capture what's been occupying my time and thoughts lately.

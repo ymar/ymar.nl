@@ -1,7 +1,7 @@
 ---
 title: "App Defaults 2024"
 description: "My go-to apps"
-date: "Mar 22 2024"
+date: 2024-03-22
 ---
 Even though it's a trend from 2023, let's kick off my first blog post with a list of default apps. If you are interested in seeing more of these lists, have a look [here](#).
 

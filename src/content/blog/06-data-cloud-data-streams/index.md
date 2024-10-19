@@ -1,7 +1,8 @@
 ---
 title: "Understanding Salesforce Data Cloud: Data Streams"
 description: “How Salesforce Data Cloud’s data streams can transform your data integration strategy."
-date: "2024-10-20"
+date: 2024-10-20
+
 ---
 
 # Data Streams in Salesforce Data Cloud

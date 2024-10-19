@@ -1,7 +1,7 @@
 ---
 title: "How I organise my music"
 description: "As a music-lover, I am always working on improving the perfect setup that combines ease of access with the purest sound quality."
-date: "Mar 22 2024"
+date: 2024-03-22
 ---
 As a music-lover, I am always working on improving the perfect setup that combines ease of access with the purest sound quality. That's exactly why I embarked on a journey to build my own music streaming system. I chose Plexamp, a dedicated music player for Plex, running on a Raspberry Pi 4, with DietPi as the operating system for its efficiency and an external SSD for ample, fast storage. Here's how I did it:
 
