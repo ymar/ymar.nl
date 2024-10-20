@@ -4,8 +4,9 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import vercel from '@astrojs/vercel/serverless';
 
+
 export default defineConfig({
-  site: "https://astro-nano-demo.vercel.app",
+  site: "https://ymar.nl",
   integrations: [mdx(), sitemap(), tailwind()],
   output: 'server',
   adapter: vercel(),
