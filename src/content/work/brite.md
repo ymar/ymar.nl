@@ -5,4 +5,8 @@ dateStart: "01/01/2024"
 dateEnd: "present"
 ---
 
-As a Managing Consultant at Brite, I lead complex Salesforce implementations, specializing in Marketing, Sales, and Service Cloud solutions. I architect end-to-end CRM strategies, driving digital transformation for clients across diverse industries. My role involves guiding cross-functional teams, optimizing business processes, and ensuring seamless integration of Salesforce with existing ecosystems. I also provide strategic guidance to clients, helping them leverage Salesforce's full potential to achieve their business objectives and enhance customer experiences.
+As a Managing Consultant at Brite, I specialize in enhancing customer experiences through strategic Salesforce implementations. My focus is on leveraging Marketing, Sales, and Service Cloud solutions to create seamless, personalized customer journeys. I architect comprehensive CRM strategies that enable clients to better understand and engage with their customers at every touchpoint.
+
+By optimizing business processes and integrating Salesforce with existing systems, I help organizations create a unified view of their customers, leading to improved satisfaction and loyalty.
+
+My role involves guiding cross-functional teams to implement customer-centric solutions, ensuring that every interaction, from marketing outreach to post-sale support, contributes to a cohesive and positive customer experience. I provide strategic guidance to clients on how to utilize Salesforce's capabilities to anticipate customer needs, personalize communications, and streamline service delivery, ultimately driving customer retention and business growth through enhanced customer experiences.
