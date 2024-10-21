@@ -5,15 +5,13 @@ date: 2024-10-20
 
 ---
 
-# Data Streams in Salesforce Data Cloud
 
-Data streams in Salesforce Data Cloud are essential for bringing data from various sources into your Salesforce environment. They act as pipelines that allow you to import data in a continuous and timely manner, enabling you to keep your data resources up-to-date and ready for analysis.
+When you dive into Data Cloud you will likely hear the term "Data Streams". If I would describe it in one sentence, Data streams in Salesforce Data Cloud are essential for bringing data from various sources into your Salesforce environment. They act as pipelines that allow you to import data in a continuous and timely manner, enabling you to keep your data resources up-to-date and ready for analysis.
 
-## What Are Data Streams?
 
-Data streams are mechanisms that facilitate the movement of data from different origins into Salesforce Data Cloud. These streams can collect data from internal Salesforce applications or external systems, ensuring that the information is centralized for easy access and use.
+## So what are Data Streams?
+Data Streams are not a new concept. They are similar to the concept of a data connector in Salesforce Data Connector. The main difference is that Data Streams are part of Salesforce Data Cloud and are specifically designed for use within Salesforce Data Cloud environments. 
 
-## Types of Data Streams
 
 Salesforce Data Cloud supports two main types of data streams: standard and custom.
 
