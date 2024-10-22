@@ -5,8 +5,6 @@ date: 2024-10-21
 
 ---
 
-# The Basics of Project Management
-
 I believe Project management is a vital skill for any consultant in order to help organizations achieve their goals. However, it’s often perceived as a complex and technical field, accessible only to professionals with extensive experience. The truth is, project management is not rocket science – it’s a set of competencies, techniques, and tools that I believe anyone can learn.
 
 Let's we’ll break down the basics of project management in simple terms, making it easy for everyone to understand and apply these principles in their daily work.
