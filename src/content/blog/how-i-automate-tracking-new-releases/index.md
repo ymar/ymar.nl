@@ -22,6 +22,8 @@ Using Smarter Playlists' visual workflow builder, I created an automated system 
 
 3. **Output**: The resulting playlist is automatically saved to my Spotify account, giving me a constantly updated collection of the latest Anjunadeep releases.
 
+![Smarter Playlists Screenshot](smarterplaylists-screenshot.png)
+
 ## Benefits
 
 This automation has several advantages:
