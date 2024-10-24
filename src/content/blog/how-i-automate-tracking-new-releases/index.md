@@ -4,8 +4,6 @@ description: "As a music-lover, I am always working on improving the perfect set
 date: 2024-03-22
 ---
 
-# How I Automate Tracking New Releases
-
 As a dedicated fan of Anjunadeep's deep, progressive sound, I wanted to make sure I never missed any new releases from the label. Instead of manually checking their catalog every week, I created a simple but effective automation pipeline using [Smarter Playlists](http://smarterplaylists.playlistmachinery.com/go.html) to keep track of their latest releases.
 
 ## The Setup
