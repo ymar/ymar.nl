@@ -22,7 +22,8 @@ Using Smarter Playlists' visual workflow builder, I created an automated system 
 
 3. **Output**: The resulting playlist is automatically saved to my Spotify account, giving me a constantly updated collection of the latest Anjunadeep releases.
 
-![Smarter Playlists Screenshot](smarterplaylists-screenshot.png)
+
+
 
 ## Benefits
 
@@ -32,6 +33,15 @@ This automation has several advantages:
 - The reverse chronological sorting means new music is always at the top
 - It's completely hands-off once set up
 - De-duplication ensures a clean playlist without repeated tracks
+
+## Example Playlists
+
+Here is an example of how I keep track of Anjunadeep releases:
+![Smarter Playlists Combining Anjunadeep Releases](smarterplaylists-anjunadeep.png)
+
+And another example of building a log of release radar tracks:
+![Smarter Playlists Building a Log of Release Radar Tracks](smarterplaylists-release-radar.png)
+
 
 ## Technical Notes
 
