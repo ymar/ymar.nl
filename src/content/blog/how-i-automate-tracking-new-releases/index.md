@@ -1,5 +1,5 @@
 ---
-title: "How I Automate Tracking New Releases"
+title: "How I Automate Tracking New Music"
 description: "As a music-lover, I am always working on improving the perfect setup that combines ease of access with the purest sound quality."
 date: 2024-10-24
 ---
@@ -50,11 +50,8 @@ The workflow in Smarter Playlists is relatively simple but effective. The altern
 ## Future Improvements
 
 Possible enhancements could include:
-- Adding notifications for new releases
 - Creating separate playlists for different styles (deep house, progressive, ambient)
-- Including release radar tracks from Anjunadeep artists
 - Implementing additional filters based on BPM or energy levels
-- Creating seasonal variations of the playlist
 
 By automating this process with Smarter Playlists, I can focus on enjoying the music rather than spending time manually tracking new releases. It's a perfect example of how a little automation can enhance your music listening experience.
 
