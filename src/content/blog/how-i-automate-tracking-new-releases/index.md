@@ -55,4 +55,3 @@ Possible enhancements could include:
 
 By automating this process with Smarter Playlists, I can focus on enjoying the music rather than spending time manually tracking new releases. It's a perfect example of how a little automation can enhance your music listening experience.
 
-*Have you set up any similar automation for tracking your favorite labels? I'd love to hear about your setup in the comments below!*
